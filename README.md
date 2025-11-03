@@ -1,4 +1,4 @@
-# Unity_Audio_Spatializer
+# Michel_Unity_Audio_Spatializer
 Audio spatializer that modifies basic Unity audio parameters through code
 
 # What the project does
